@@ -1,2 +1,3 @@
 # Capacity-Utilization-and-its-impact-on-Airline-s-Financial-Performance
-Code and data for "Capacity Utlization and Airline Financial Performance"
+The code and data replicates paper "Capacity Utilization and its Impact on Airline’s Financial Performance". All data are collected from the Department of Transportation and are publicly available. 
+
